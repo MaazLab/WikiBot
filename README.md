@@ -21,7 +21,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/WikiBot.git
+   git clone https://github.com/MaazLab/WikiBot.git
    cd WikiBot
 
 2. **Install Dependencies**
